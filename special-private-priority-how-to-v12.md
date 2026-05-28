@@ -265,12 +265,16 @@ The trust instrument satisfies every element of a valid express trust. The three
 
 **Trust Roles — All Present.**
 
-- **Settlor** — you, delivering the res on special deposit with intent expressly declared
-- **Trustee** — the recipient, appointed by delivery and confirmed by retention without disclaimer; when the trustee's office becomes vacant, chancery fills it
+- **Grantee** — you, receiving the instrument from the recipient; receipt vests the right to declare what happens to the res next. Gibson, *Suits in Chancery* § 1.
+- **Grantor** — you, declaring the trust purpose and naming the beneficiary by instrument; the declaration creates the equitable relation. Pomeroy, *Equity Jurisprudence* §§ 1009–1012.
+- **Settlor** — you, delivering the res on special deposit with intent expressly declared; delivery impresses the trust upon the corpus and funds the trust in the same act. Van Zile § 438; Story § 964.
+- **Trustee** — the recipient, appointed by delivery and confirmed by retention without disclaimer; when the trustee's office becomes vacant, chancery fills it. Pomeroy § 1086; Gibson § 5954.
 - **Corpus** — the documentary res the recipient tendered, returned under the instrument
 - **Purposes** — inspection, accounting, settlement, closure, and release of all collateral and encumbrances
 - **Duration** — until all five purposes are accomplished
-- **Beneficiary** — named in the blank, holding the equitable interest by declaration
+- **Beneficiary** — named in the blank, holding the equitable interest by declaration; equitable title arises from the trust relation itself, not from any grant by the trustee. Gibson § 994; Pomeroy § 1044.
+
+**The Three Sequential Acts.** The Petitioner performs three roles in one sentence on one instrument: **Grantee** (accept the instrument) → **Grantor** (declare the trust) → **Settlor** (deliver the res on special deposit). One acceptance, one declaration, one delivery — three roles, one act. See § 14 Step Two.
 
 **Why "Special Deposit" Does Double Work.** When a depositary receives property on special deposit for stated purposes, the depositary holds custody under purpose — no title. Misuse or commingling is breach. The depositor holds an equitable interest in the res. By writing "on special deposit," two structures are layered: special deposit and express trust. If one is challenged, the other applies. Gibson, *Suits in Chancery* §§ 451–453; Story, *Equity Jurisprudence* § 453.
 
