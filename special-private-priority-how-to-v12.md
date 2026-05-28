@@ -274,8 +274,6 @@ The trust instrument satisfies every element of a valid express trust. The three
 - **Duration** — until all five purposes are accomplished
 - **Beneficiary** — named in the blank, holding the equitable interest by declaration; equitable title arises from the trust relation itself, not from any grant by the trustee. Gibson § 994; Pomeroy § 1044.
 
-**The Three Sequential Acts.** The Petitioner performs three roles in one sentence on one instrument: **Grantee** (accept the instrument) → **Grantor** (declare the trust) → **Settlor** (deliver the res on special deposit). One acceptance, one declaration, one delivery — three roles, one act. See § 14 Step Two.
-
 **Why "Special Deposit" Does Double Work.** When a depositary receives property on special deposit for stated purposes, the depositary holds custody under purpose — no title. Misuse or commingling is breach. The depositor holds an equitable interest in the res. By writing "on special deposit," two structures are layered: special deposit and express trust. If one is challenged, the other applies. Gibson, *Suits in Chancery* §§ 451–453; Story, *Equity Jurisprudence* § 453.
 
 **The Doctrine Behind the Instrument.**
