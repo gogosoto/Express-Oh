@@ -1154,9 +1154,9 @@ The Petitioner files a Notice of Variance in response. The notice does not argue
 
 ### 27. Exhibit Discipline
 
-The bill does not carry the trust indenture as a public exhibit. The trust relation is proved through the conduct: the instrument returned, the three notices sent, the silence recorded. The indenture — the private governance document — stays in chambers.
+All exhibits to the Bill in Equity are chambers submissions — filed under seal, for chambers review, by leave, pursuant to FRCP 77(b). No trust document, no record, no receipt goes to the public docket. The bill references the exhibits by letter. The chancellor reads facts and proof together in chambers.
 
-**Public exhibits to the Bill in Equity:**
+**Exhibits submitted to chambers:**
 
 - **Exhibit A** — the trust endorsement instrument (acceptance, declaration, special deposit return, signed and dated)
 - **Exhibit B** — registered mail receipts and return receipts confirming delivery of the instrument
@@ -1164,12 +1164,11 @@ The bill does not carry the trust indenture as a public exhibit. The trust relat
 - **Exhibit D** — Notice Two and registered mail receipt
 - **Exhibit E** — Notice Three and registered mail receipt
 - **Exhibit F** — verified statement of non-response (if applicable)
+- **Exhibit G onward** — any supplemental trust instruments, account records, or chain-of-title documents touching the res
 
-**Chambers-only submission, not a public exhibit:**
+**Chambers-only indenture submission:**
 
-- The trust indenture — filed under seal, for chambers review, by leave, pursuant to FRCP 77(b)
-
-Each exhibit is referenced by number in the Facts section. The chancellor reads facts and proof together.
+- The trust indenture itself — the private governance document — filed under seal for chambers review by leave, not for the public record. The trust relation is proved through conduct: the instrument returned, the three notices sent, the silence recorded.
 
 ---
 
